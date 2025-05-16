@@ -176,3 +176,5 @@ project_contents.md
 
 # example logs
 examples/**/*.jsonl
+examples/.DS_Store
+.DS_Store
